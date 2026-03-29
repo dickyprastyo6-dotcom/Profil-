@@ -8,7 +8,7 @@ Ensuring quality, reliability, and performance in every product.
 
 ---
 
-✨ About Me
+## ✨ About Me
 
 I am a Quality Assurance Engineer with hands-on experience in software testing, troubleshooting, system maintenance, and supporting projects throughout the Software Development Life Cycle (SDLC).
 
